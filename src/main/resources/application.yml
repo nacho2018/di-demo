@@ -1,0 +1,12 @@
+guru:
+  jms:
+    username: JMS Username
+    password: somepass
+    url: SomeURL
+
+list_animals: cat, dog, whale
+price_money: 23.56
+response: true
+
+
+
